@@ -1,0 +1,3 @@
+# Cartoon-Paintify-Images
+
+This was simply a fun side project where I used openCV to perform a series of filtering operations to convert an image to resemble a painting. I used bilateral and median filters in order preserve edges while making the color more uniform. I also implement a filter that will sharpen the image. In order to bring the effect of a painting or cartoon, it is also important that I use K-means clustering in order to reduce the color space of the image. I output images where the color space has been reduced to differing degrees so the user can choose which paintified image they prefer. I have uploaded some examples of what output images of various famous people looks like.
